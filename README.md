@@ -62,7 +62,7 @@ Bank-Management-System/
 
 ## 👥 Team Details
 
-* **Project Partner:** Savera
+* **Project Partner:** Maheen
 * **Project Supervisor / Lab Instructor:** Mam Maleeha
 
 ## 🎯 Learning Objectives
